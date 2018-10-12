@@ -1,0 +1,21 @@
+{
+  "name": "travis-tutorial-project-example",
+  "version": "0.1.0-alpha",
+  "private": true,
+  "license": "UNLICENSED",
+  "author": {
+    "name": "Tobias Straub",
+    "email": "hello@tobiasstraub.com",
+    "url": "https://tobiasstraub.com"
+  },
+  "main": "app.js",
+  "scripts": {
+    "test": "jshint app.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "jshint": "^2.6.0"
+  }
+}
